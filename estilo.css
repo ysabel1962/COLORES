@@ -1,0 +1,51 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+
+body{
+background-color: 000 ;
+
+}
+
+h1 {
+    color: red;
+
+}
+
+main{ height: 200px;
+    background: red;
+
+}
+
+div{
+    height: 200px;
+    background: yellow;
+
+}
+
+section{
+    height: 200px;
+    background: coral;
+}
+
+article{
+    height: 200px;
+    background: mediumorchid;
+
+}
+a{
+    text-decoration: none;
+    color: blueviolet;
+
+}
+img{
+   display: block;
+   justify-content: center;
+   align-items: center;
+   width: 500px;
+    height: 500;
+}
+
+
